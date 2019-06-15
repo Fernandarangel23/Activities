@@ -1,0 +1,18 @@
+Resumen,,,,,,,,
+,,,,,,,Do the results have a good R Square value?,
+Estadísticas de la regresión,,,,,,,,"No, it is not more than 0.95 "
+Coeficiente de correlación múltiple,0.904921262,,,,,,Is your choice statistically reliable?,
+Coeficiente de determinación R^2,0.81888249,,,,,,,Yes becasue the critic value of F is less than 0.05
+R^2  ajustado,0.818577064,,,,,,Explain what your coefficients mean.,
+Error típico,200.2462907,,,,,,,For each 30 (0.5 minutes) the players do 1 point more. 
+Observaciones,595,,,,,,Finally produce a scatter plot and explain your overall analysis.,
+,,,,,,,,
+ANÁLISIS DE VARIANZA,,,,,,,,
+,Grados de libertad,Suma de cuadrados,Promedio de los cuadrados,F,Valor crítico de F,,,
+Regresión,1,107508994.4,107508994.4,2681.11745,3.4973E-222,,,
+Residuos,593,23778456.13,40098.57695,,,,,
+Total,594,131287450.5,,,,,,
+,,,,,,,,
+,Coeficientes,Error típico,Estadístico t,Probabilidad,Inferior 95%,Superior 95%,Inferior 95.0%,Superior 95.0%
+Intercepción,-80.81635175,13.50950845,-5.982182999,3.80874E-09,-107.3486546,-54.28404893,-107.3486546,-54.28404893
+Minutes Played,0.509360016,0.009837096,51.77950801,3.4973E-222,0.490040229,0.528679803,0.490040229,0.528679803
